@@ -9,6 +9,7 @@
 
 .container{
 	padding-right: 0;
+	padding-left: 0;
 }
 .navbar-brand h1{
 	font-weight: bold;
